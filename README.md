@@ -5,7 +5,7 @@
 - 🧠 Passionate about combining mathematics with machine learning
 - 🛠️ Building real-world projects to apply theoretical concepts 
 - 🎯 Aim to write clean, modular, and scalable code  
-- 📫 Reach me at: [amritavaish16@gmail.com](mailto:amritavaish16@gmail.com)  
+- 📫 Reach me at: [mriduixb7454@gmail.com](mailto:mriduixb7454@gmail.com)  
 
 ---
 
